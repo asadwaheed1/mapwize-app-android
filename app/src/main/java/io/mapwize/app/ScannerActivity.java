@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
+import android.util.Log;
 
 import com.google.zxing.Result;
 
@@ -42,10 +43,10 @@ public class ScannerActivity extends Activity implements ZXingScannerView.Result
 
     @Override
     public void onPause() {
-        super.onPause();
-        if (mScannerView != null) {
+        if (mScannerView != null){
             mScannerView.stopCamera();
         }
+        super.onPause();
     }
 
     @Override

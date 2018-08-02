@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:mapbox="http://schemas.android.com/apk/res-auto"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="io.mapwize.app.MapActivity"
     tools:showIn="@layout/app_bar_map">
@@ -24,9 +23,9 @@
             android:id="@+id/mapboxMap"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            mapbox:mapbox_uiLogo="false"
-            mapbox:mapbox_uiAttribution="false"
-            mapbox:mapbox_styleUrl="http://outdoor.mapwize.io/styles/mapwize/style.json?key=cab8f29af2d764be17fb092b52ebf66f"/>
+            app:mapbox_uiLogo="false"
+            app:mapbox_uiAttribution="false"
+            app:mapbox_styleUrl="http://outdoor.mapwize.io/styles/mapwize/style.json?key=YOUR_API_KEY"/>
 
         <View
             android:id="@+id/backedView"

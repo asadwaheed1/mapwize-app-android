@@ -1,34 +1,34 @@
 <resources>
-    <string name="app_name">Mapwize</string>
-    <string name="action_settings">Settings</string>
-    <string name="location_permission">Mapwize needs your permission to display your position on the map</string>
-    <string name="language_selection">Select a language</string>
-    <string name="universe_selection">Select an universe</string>
+    <string name="APP_NAME">Mapwize</string>
+    <string name="ACTION_SETTINGS">Settings</string>
+    <string name="LOCATION_PERMISSION">Mapwize needs your permission to display your position on the map</string>
+    <string name="LANGUAGE_SELECTION">Select a language</string>
+    <string name="UNIVERSE_SELECTION">Select an universe</string>
 
-    <string name="ok">Ok</string>
-    <string name="cancel">Cancel</string>
+    <string name="OK">Ok</string>
+    <string name="CANCEL">Cancel</string>
 
-    <string name="credits">Credits</string>
+    <string name="CREDITS">Credits</string>
 
-    <string name="search_venue">Search a venue…</string>
-    <string name="search_in_venue">Search in %1$s…</string>
+    <string name="SEARCH_VENUE">Search a venue…</string>
+    <string name="SEARCH_IN_VENUE_PLACEHOLDER">Search in %1$s…</string>
 
-    <string name="floor_placeholder">Floor %1$s</string>
+    <string name="FLOOR_PLACEHOLDER">Floor %1$s</string>
 
-    <string name="choose_from">Choose a starting point</string>
-    <string name="choose_to">Choose a destination</string>
-    <string name="current_position">Current position</string>
+    <string name="CHOOSE_FROM">Choose a starting point</string>
+    <string name="CHOOSE_TO">Choose a destination</string>
+    <string name="CURRENT_LOCATION">Current position</string>
 
-    <string name="access_key">Enter your access key</string>
-    <string name="access_key_enter">Access keys allow you to view priate buildings and are provided by building managers</string>
-    <string name="close">Close</string>
-    <string name="about_mapwize">About Mapwize</string>
-    <string name="contact_us">Contact us</string>
-    <string name="access_granted">New access has been granted</string>
-    <string name="access_invalid">Invalid access key</string>
-    <string name="entering_in_venue">Entering in %1$s…</string>
-    <string name="no_results">No results</string>
-    <string name="direction_not_found">No direction found</string>
-    <string name="coordinates">Coordinates</string>
-    <string name="dir_min">%1$d min</string>
+    <string name="ACCESS_KEY">Enter your access key</string>
+    <string name="ACCESS_KEY_EXPLANATION">Access keys allow you to view priate buildings and are provided by building managers</string>
+    <string name="CLOSE">Close</string>
+    <string name="ABOUT_MAPWIZE">About Mapwize</string>
+    <string name="CONTACT_US">Contact us</string>
+    <string name="ACCESS_GRANTED">New access has been granted</string>
+    <string name="ACCESS_INVALID">Invalid access key</string>
+    <string name="ENTERING_IN_VENUE_PLACEHOLDER">Entering in %1$s…</string>
+    <string name="NO_RESULTS">No results</string>
+    <string name="DIRECTION_NOT_FOUND">No direction found</string>
+    <string name="COORDINATES">Coordinates</string>
+    <string name="DIRECTION_TIME_PLACEHOLDER">%1$d min</string>
 </resources>

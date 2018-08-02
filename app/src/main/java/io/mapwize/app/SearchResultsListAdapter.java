@@ -72,7 +72,7 @@ public class SearchResultsListAdapter extends RecyclerView.Adapter<SearchResults
             else {
                 holder.subtitleView.setVisibility(View.GONE);
             }
-            String floorPlaceHolder = mContext.getResources().getString(R.string.floor_placeholder);
+            String floorPlaceHolder = mContext.getResources().getString(R.string.FLOOR_PLACEHOLDER);
             holder.floorView.setText(String.format(floorPlaceHolder, nf.format(place.getFloor())));
             holder.floorView.setVisibility(View.VISIBLE);
             if (place.getIcon()!= null && place.getIcon().length() > 0) {
@@ -109,7 +109,7 @@ public class SearchResultsListAdapter extends RecyclerView.Adapter<SearchResults
         if (suggestionItem instanceof String) {
             String string = (String) suggestionItem;
             if (string.equals("current_location")) {
-                holder.titleView.setText(mContext.getResources().getString(R.string.current_position));
+                holder.titleView.setText(mContext.getResources().getString(R.string.CURRENT_LOCATION));
                 holder.subtitleView.setVisibility(View.GONE);
                 holder.floorView.setVisibility(View.GONE);
                 holder.leftIcon.setVisibility(View.VISIBLE);
@@ -117,7 +117,7 @@ public class SearchResultsListAdapter extends RecyclerView.Adapter<SearchResults
             }
             if (string.equals("no_results")) {
                 holder.itemView.setClickable(false);
-                holder.titleView.setText(mContext.getResources().getString(R.string.no_results));
+                holder.titleView.setText(mContext.getResources().getString(R.string.NO_RESULTS));
                 holder.subtitleView.setVisibility(View.GONE);
                 holder.floorView.setVisibility(View.GONE);
                 holder.leftIcon.setVisibility(View.INVISIBLE);

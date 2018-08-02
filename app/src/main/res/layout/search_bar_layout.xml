@@ -51,7 +51,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:hint="@string/search_venue"
+                    android:hint="@string/SEARCH_VENUE"
                     android:layout_gravity="center_vertical|start"
                     android:alpha="1"
                     android:background="@color/transparent"

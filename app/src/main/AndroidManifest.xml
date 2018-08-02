@@ -55,6 +55,7 @@
             android:configChanges="orientation|screenSize"
             android:theme="@style/MaterialDrawerTheme.Light.TranslucentStatus">
         </activity>
+
     </application>
 
 </manifest>

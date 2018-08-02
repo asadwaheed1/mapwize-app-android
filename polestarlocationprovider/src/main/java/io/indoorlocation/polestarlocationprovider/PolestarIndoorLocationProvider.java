@@ -117,7 +117,6 @@ public class PolestarIndoorLocationProvider extends IndoorLocationProvider imple
 
     @Override
     public void onError(NAOERRORCODE naoerrorcode, String s) {
-        Log.i("Debug", "s");
         this.dispatchOnProviderError(new Error(s));
     }
 

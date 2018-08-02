@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Mapwize</string>
-    <string name="action_settings">Instellingen</string>
-    <string name="location_permission">Mapwize heeft uw toestemming nodig om uw positie op de kaart weer te geven</string>
-    <string name="language_selection">Kies een taal</string>
-    <string name="universe_selection">Kies een universum</string>
+    <string name="APP_NAME">Mapwize</string>
+    <string name="ACTION_SETTINGS">Instellingen</string>
+    <string name="LOCATION_PERMISSION">Mapwize heeft uw toestemming nodig om uw positie op de kaart weer te geven</string>
+    <string name="LANGUAGE_SELECTION">Kies een taal</string>
+    <string name="UNIVERSE_SELECTION">Kies een universum</string>
 
-    <string name="ok">Ok</string>
-    <string name="cancel">Annuleren</string>
+    <string name="OK">Ok</string>
+    <string name="CANCEL">Annuleren</string>
 
-    <string name="credits">Credits</string>
+    <string name="CREDITS">Credits</string>
 
-    <string name="search_venue">Naar een plek zoeken…</string>
-    <string name="search_in_venue">Zoeken in %1$s…</string>
+    <string name="SEARCH_VENUE">Naar een plek zoeken…</string>
+    <string name="SEARCH_IN_VENUE_PLACEHOLDER">Zoeken in %1$s…</string>
 
-    <string name="floor_placeholder">Verdieping %1$s</string>
+    <string name="FLOOR_PLACEHOLDER">Verdieping %1$s</string>
 
-    <string name="choose_from">Kies een uitgangspunt</string>
-    <string name="choose_to">Kies een bestemming</string>
-    <string name="current_position">Huidige standpunt</string>
+    <string name="CHOOSE_FROM">Kies een uitgangspunt</string>
+    <string name="CHOOSE_TO">Kies een bestemming</string>
+    <string name="CURRENT_LOCATION">Huidige standpunt</string>
 
-    <string name="access_key">Toegangsleutel</string>
-    <string name="access_key_enter">Toegangsleutel invoegen</string>
-    <string name="close">Afsluiten</string>
-    <string name="about_mapwize">About Mapwize</string>
-    <string name="contact_us">Contact met ons opnemen</string>
-    <string name="access_granted">Nieuwe toegangssleutel toegevoegd</string>
-    <string name="access_invalid">Toegangssleutel ongeldig</string>
-    <string name="entering_in_venue">Toegang tot %1$s…</string>
-    <string name="no_results">Geen resultaat</string>
-    <string name="direction_not_found">Geen bestemming gevonden</string>
-    <string name="coordinates">Coördinaten</string>
-    <string name="dir_min">%1$d min</string>
+    <string name="ACCESS_KEY">Toegangsleutel</string>
+    <string name="ACCESS_KEY_EXPLANATION">Toegangsleutel invoegen</string>
+    <string name="CLOSE">Afsluiten</string>
+    <string name="ABOUT_MAPWIZE">About Mapwize</string>
+    <string name="CONTACT_US">Contact met ons opnemen</string>
+    <string name="ACCESS_GRANTED">Nieuwe toegangssleutel toegevoegd</string>
+    <string name="ACCESS_INVALID">Toegangssleutel ongeldig</string>
+    <string name="ENTERING_IN_VENUE_PLACEHOLDER">Toegang tot %1$s…</string>
+    <string name="NO_RESULTS">Geen resultaat</string>
+    <string name="DIRECTION_NOT_FOUND">Geen bestemming gevonden</string>
+    <string name="COORDINATES">Coördinaten</string>
+    <string name="DIRECTION_TIME_PLACEHOLDER">%1$d min</string>
 </resources>

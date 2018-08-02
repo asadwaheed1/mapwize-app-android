@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Mapwize</string>
-    <string name="action_settings">Paramètres</string>
-    <string name="location_permission">Mapwize a besoin de votre autorisation pour afficher votre position sur la carte</string>
-    <string name="language_selection">Choisissez une langue</string>
-    <string name="universe_selection">Choisissez un univers</string>
+    <string name="APP_NAME">Mapwize</string>
+    <string name="ACTION_SETTINGS">Paramètres</string>
+    <string name="LOCATION_PERMISSION">Mapwize a besoin de votre autorisation pour afficher votre position sur la carte</string>
+    <string name="LANGUAGE_SELECTION">Choisissez une langue</string>
+    <string name="UNIVERSE_SELECTION">Choisissez un univers</string>
 
-    <string name="ok">Ok</string>
-    <string name="cancel">Annuler</string>
+    <string name="OK">Ok</string>
+    <string name="CANCEL">Annuler</string>
 
-    <string name="credits">Crédits</string>
+    <string name="CREDITS">Crédits</string>
 
-    <string name="search_venue">Rechercher un lieu…</string>
-    <string name="search_in_venue">Rechercher dans %1$s…</string>
+    <string name="SEARCH_VENUE">Rechercher un lieu…</string>
+    <string name="SEARCH_IN_VENUE_PLACEHOLDER">Rechercher dans %1$s…</string>
 
-    <string name="floor_placeholder">Etage %1$s</string>
+    <string name="FLOOR_PLACEHOLDER">Etage %1$s</string>
 
-    <string name="choose_from">Choisir un point de départ</string>
-    <string name="choose_to">Choisir une destination</string>
-    <string name="current_position">Position actuelle</string>
+    <string name="CHOOSE_FROM">Choisir un point de départ</string>
+    <string name="CHOOSE_TO">Choisir une destination</string>
+    <string name="CURRENT_LOCATION">Position actuelle</string>
 
-    <string name="access_key">Clé d\'accès</string>
-    <string name="access_key_enter">Entrez une clé d\'accès</string>
-    <string name="close">Fermer</string>
-    <string name="about_mapwize">A propos de Mapwize</string>
-    <string name="contact_us">Contactez nous</string>
-    <string name="access_granted">De nouveaux accès ont été ajoutés</string>
-    <string name="access_invalid">Clé d\'accès invalide</string>
-    <string name="entering_in_venue">Entrée dans %1$s…</string>
-    <string name="no_results">Aucun résultat</string>
-    <string name="direction_not_found">Aucune direction n\'a été trouvée</string>
-    <string name="coordinates">Coordonnées</string>
-    <string name="dir_min">%1$d min</string>
+    <string name="ACCESS_KEY">Clé d\'accès</string>
+    <string name="ACCESS_KEY_EXPLANATION">Entrez une clé d\'accès</string>
+    <string name="CLOSE">Fermer</string>
+    <string name="ABOUT_MAPWIZE">A propos de Mapwize</string>
+    <string name="CONTACT_US">Contactez nous</string>
+    <string name="ACCESS_GRANTED">De nouveaux accès ont été ajoutés</string>
+    <string name="ACCESS_INVALID">Clé d\'accès invalide</string>
+    <string name="ENTERING_IN_VENUE_PLACEHOLDER">Entrée dans %1$s…</string>
+    <string name="NO_RESULTS">Aucun résultat</string>
+    <string name="DIRECTION_NOT_FOUND">Aucune direction n\'a été trouvée</string>
+    <string name="COORDINATES">Coordonnées</string>
+    <string name="DIRECTION_TIME_PLACEHOLDER">%1$d min</string>
 </resources>

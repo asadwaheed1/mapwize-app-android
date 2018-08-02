@@ -23,3 +23,8 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+-dontwarn com.mapbox.**
+-dontwarn com.unity3d.player.UnityPlayer
+-keep class com.navisens.** {*;}
+-keep class org.json.** {*;}
